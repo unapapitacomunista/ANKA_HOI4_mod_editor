@@ -1,4 +1,6 @@
-##INSTALL THE FILE IN LAUNCHMENTS##
+##INSTALL THE FILE IN RELEASES
+
+
 # ANKA — Hearts of Iron IV Mod Editor
 
 ANKA is a free, open-source desktop editor for **Hearts of Iron IV** mods. It replaces
